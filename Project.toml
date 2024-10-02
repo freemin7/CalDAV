@@ -1,0 +1,13 @@
+name = "CalDAV"
+uuid = "51c9ed73-7405-4e92-94fa-c23845753c21"
+authors = ["contributors"]
+version = "0.1.0"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[compat]
+julia = "1"
+
+[targets]
+test = ["Test"]
